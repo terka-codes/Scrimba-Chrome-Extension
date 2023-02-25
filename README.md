@@ -29,8 +29,6 @@ Note: Manually installing extensions can be less secure than installing them fro
 To save a link, type the URL into the input field and click on the "Save" button. Alternatively, you can click on the "Save Tab" button to save the link of the current tab.
 ### View Saved Links
 All your saved links will be displayed in a list below the input field.
-### Delete a Link
-To delete a link, simply click on the "X" button next to the link.
 ### Delete All Links
 To delete all your saved links, double-click on the "Delete All" button.
 
